@@ -1,0 +1,14 @@
+{
+  "name": "cypresstut",
+  "version": "1.0.0",
+  "description": "Cypress Tutorial Demo",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TommyD",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
